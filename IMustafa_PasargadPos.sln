@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34310.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasargadPosConsoleApp", "ConsoleApp\PasargadPosConsoleApp.csproj", "{4A8EF156-E9A2-44FC-9CCB-2BDE16064B83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A8EF156-E9A2-44FC-9CCB-2BDE16064B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A8EF156-E9A2-44FC-9CCB-2BDE16064B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A8EF156-E9A2-44FC-9CCB-2BDE16064B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A8EF156-E9A2-44FC-9CCB-2BDE16064B83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {128360A3-92F6-4DBA-A6F2-EB382EF164FB}
+	EndGlobalSection
+EndGlobal
